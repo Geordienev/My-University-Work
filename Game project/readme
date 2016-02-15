@@ -1,2 +1,4 @@
 This unity game was created in 48 hours for a university project, the models were either purchased or freeware.
+The goal of the game was to restore power to the science facility and call in a helicopter for evacuation.
 Using playmaker I was able to code a working AI for the dinosaurs. They have a radar which allows for them to detect if anything is in their field of view and then pursue them. They also wonder around the map and stop periodically and then continue in a random direction. There's a basic set of animations for the raptors and sound effects.
+If I had longer than 48 hours, my next goals were HP and death for the player, finishing off the objective of the game and further polishing the map/player design.
